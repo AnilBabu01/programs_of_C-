@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1633950120 source:d:\c++\programming problems in c\problems 1\main.c
+	<stdio.h>
+	<stdlib.h>
+
